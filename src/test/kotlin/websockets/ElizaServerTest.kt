@@ -1,4 +1,4 @@
-@file:Suppress("NoWildcardImports", "unused")
+@file:Suppress("NoWildcardImports", "UnusedPrivateMember")
 package websockets
 
 import org.junit.jupiter.api.Assertions.*
