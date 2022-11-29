@@ -16,13 +16,8 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 | User name                                                                     | NIA    | GitHub Action                                                                                                                                                                                              | Score |
 |-------------------------------------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-<<<<<<< HEAD
 | [Hec7or-Uni](https://github.com/Hec7or-Uni/lab4-websockets/tree/work) | 798095 | ![Build Status](https://github.com/Hec7or-Uni/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push) |
 | [GueorguiKachan](https://github.com/GueorguiKachan/lab4-websockets/tree/work) | 794799 | [![Build Status](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/ci.yml)
-=======
-| [Hec7or-Uni](https://github.com/Hec7or-Uni/lab4-websockets/tree/work) | 798095 | ![Build Status](https://github.com/Hec7or-Uni/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push) | 
-| [GueorguiKachan](https://github.com/GueorguiKachan/lab4-websockets/tree/work) | 794799 | [![Build Status](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/ci.yml) 
->>>>>>> b12e8befc85256de7d77c86e72f9bc68938d2277
 | [Ibon2](https://github.com/Ibon2/lab4-websockets/tree/work)                   | 776561 | [![Build Status](https://github.com/Ibon2/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Ibon2/lab4-websockets/actions/workflows/ci.yml)                   |
 | [jbuil](https://github.com/jbuil/lab4-websockets/tree/work)                   | 797285 | [![Build Status](https://github.com/jbuil/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/jbuil/lab4-websockets/actions/workflows/ci.yml)                   |
 | [Ernesting](https://github.com/Ernesting/lab4-websockets/tree/work)           | 798799 | [![Build Status](https://github.com/Ernesting/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Ernesting/lab4-websockets/actions/workflows/ci.yml)
